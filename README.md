@@ -30,3 +30,5 @@ void IncreaseSize(SeqList &L,int len){
     L.MaxSize=L.MaxSize+len;
     free(p);
 }
+
+void printdata
